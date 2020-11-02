@@ -1,7 +1,7 @@
 # 关于GFW（中国防火墙）加强
-GFW加强导致部分节点无法使用，现存节点仅剩寥寥无几，请大家珍惜使用
+GFW加强导致vmess部分节点无法使用，现存vmess节点仅剩寥寥无几，请大家珍惜使用
 
-如有特别需要的，大家可以使用安卓vpn，我已发布到我的项目里，[传送门](https://github.com/hyt-allen-xu/Android-vpn)
+推荐大家使用ss节点或使用安卓vpn，我已发布到我的项目里，[传送门](https://github.com/hyt-allen-xu/Android-vpn)
 
 谢谢大家对我的项目的支持！
 
