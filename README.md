@@ -32,7 +32,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 - `https://raw.githubusercontent.com/hyt-allen-xu/free-v2ray/master/2020-1108`  
 
 ### (推荐）自定义节点订阅  
-为解决github user content被屏蔽订阅无法更新订阅问题，建了个订阅网站，有需要自取：[永久免费订阅](http://freev2ray.orgfree.com)
+为解决github user content被屏蔽订阅无法更新订阅问题，建了个订阅网站，有需要自取：[永久免费订阅](http://freev2ray.orgfree.com)（已停用）
 
 请注意，上方的订阅链接仅提供最新的节点，不提供以往的节点
 
