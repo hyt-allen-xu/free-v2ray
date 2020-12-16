@@ -3,7 +3,10 @@ GFW加强导致vmess部分节点无法使用，现存vmess节点仅剩寥寥无�
 
 推荐大家使用ss节点或使用安卓vpn，我已发布到我的项目里，[传送门](https://github.com/hyt-allen-xu/Android-vpn)
 
-在线临时代理：https://google.hyt-allenxu.workers.dev/
+在线临时代理1：https://google.hyt-allenxu.workers.dev/
+
+2:https://02df75773a2d890ab489a830649f629c.cloudflareworkers.com/
+
 谢谢大家对我的项目的支持！
 
 # 免费v2ray+ss账号分享,每日更新
