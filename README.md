@@ -33,10 +33,11 @@ V2Ray账号，更新时间：2021年1月1日 星期五 14:57:32
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
 
 ### v2ray节点订阅  
-- `https://raw.githubusercontent.com/hyt-allen-xu/free-v2ray/master/2020-1108`  
+- `https://raw.githubusercontent.com/hyt-allen-xu/free-v2ray/master/2021-0102`  
 
 ### (推荐）自定义节点订阅  
-为解决github user content被屏蔽订阅无法更新订阅问题，建了个订阅网站，有需要自取：[永久免费订阅](http://www.baidu.com)（已停用）
+为解决github user content被屏蔽订阅无法更新订阅问题，建了个订阅网站，有需要自取：
+- `https://hyt-allen-xu.netlify.app`
 
 请注意，上方的订阅链接仅提供最新的节点，不提供以往的节点
 
