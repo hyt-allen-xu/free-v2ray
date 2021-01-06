@@ -26,8 +26,6 @@ V2Ray账号，更新时间：2021年1月6日 星期三 14:57:32
 
 2.最近的文档没有进行base64加密，所以github订阅可能不可用，今天已加密，目前可用
 
-### 意见反馈
-意见反馈入口(匿名)：[点击这里](https://forms.gle/Xr9RwbGb1hYuMdff7)
 
 ### （推荐）节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
@@ -38,6 +36,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ### (推荐）自定义节点订阅  
 为解决github user content被屏蔽订阅无法更新订阅问题，建了个订阅网站，有需要自取：
 - `https://hyt-allen-xu.netlify.app`
+or - `https://suo.yt/lUp4yGo`
 
 请注意，上方的订阅链接仅提供最新的节点，不提供以往的节点
 
