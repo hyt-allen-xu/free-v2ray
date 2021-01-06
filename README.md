@@ -22,9 +22,7 @@ V2Ray账号，更新时间：2021年1月6日 星期三 14:57:32
 | [ss](#v2ray)  | [ss](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.1.4/shadowsocks--universal-5.1.4.apk)|  
 
 ### 其他
-1.由于最近工作繁忙，所以无法及时更新节点，如有不便，敬请谅解！
-
-2.最近的文档没有进行base64加密，所以github订阅可能不可用，今天已加密，目前可用
+1.已经开通网站，[点击进入](https://hyt-allen-xu.github.io/free-v2ray/)
 
 
 ### （推荐）节点导入方法  
