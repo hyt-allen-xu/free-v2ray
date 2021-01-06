@@ -5,7 +5,7 @@ GFW加强导致vmess部分节点无法使用，现存vmess节点仅剩寥寥无�
 
 在线临时代理1：https://google.hyt-allenxu.workers.dev/
 
-2:https://02df75773a2d890ab489a830649f629c.cloudflareworkers.com/
+
 
 谢谢大家对我的项目的支持！
 
@@ -52,9 +52,15 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 订阅中可能有重复的节点，敬请谅解！
 
 ### v2ray
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDg0LjE3LjM3LjE1NjozMTU3Mg==#github%2Fhyt-allen-xu+%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIxMi4xMDIuNDIuMTk5OjMzOTky#github%2Fhyt-allen-xu+%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIxMi4xMDIuNDIuMTk0OjMzOTky#github%2Fhyt-allen-xu+%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIxMi4xMDIuNDIuMjAxOjMzOTky#github%2Fhyt-allen-xu+%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg0LjE3LjU3LjE4NTozMzk5Mg==#github%2Fhyt-allen-xu+%E9%A6%99%E6%B8%AF
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg0LjE3LjM3LjE1ODozMzk5Mg==#github%2Fhyt-allen-xu+%E9%A6%99%E6%B8%AF
+trojan://93cb7b57-dfef-4408-af2a-77a95474e69c@fuckxiaofenhong.ml:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_239
+trojan://17999d5d-344c-4389-9a7c-a8289e88fe68@chinahright.ml:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_240
+trojan://bc765efd-d2c2-4621-b1c0-66fc265ca3b5@xibun.gq:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_241
+trojan://b3f21583-e4bf-4659-986c-39a245dfdb12@milkgogo.ga:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_242
+trojan://38237ce4-cf78-4b26-a443-8ae1c549dca8@xibun.cf:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_243
+trojan://5be20eea-f98d-4d74-b78b-3ec75d21926c@trotro.ml:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_244
+trojan://e85bb3d6-c2c5-42c9-983c-b8e7cc095d97@fuckxiaofenhong.tk:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_245
+trojan://9057e820-091f-48a9-8be1-f14dc7f2825c@fuckxiaofenhong.ga:443#%F0%9F%87%AF%F0%9F%87%B5%20JP_246
+trojan://e9cba154-fa23-47ad-93ec-f9047767b4bf@fuckxiaofenhong.gq:443#%F0%9F%87%BA%F0%9F%87%B8%20US_545
+trojan://06a8b7e0-4543-4008-a686-40a9766a0e57@fuckxijinping.ga:443#%F0%9F%87%BA%F0%9F%87%B8%20US_546
+trojan://24c1f5cf-ddf1-4584-a6b9-fe8fe067c20d@fuckxijinping.cf:443#%F0%9F%87%BA%F0%9F%87%B8%20US_547
+
