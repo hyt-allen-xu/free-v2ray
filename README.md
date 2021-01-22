@@ -16,7 +16,7 @@ V2Ray账号，更新时间：2021年1月6日 星期三 14:57:32
 
 |  工具  | Android  | Win  |  
 |  ----  | ----   | ----  |  
-| [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.2.12/v2rayNG_1.2.12.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/3.19/v2rayN-Core.zip) |  
+| [v2ray](#v2ray)  | [v2rayNG](https://github.com/2dust/v2rayNG/releases/download/1.5.11/v2rayNG_1.5.11_x86.apk) | [v2rayN](https://github.com/2dust/v2rayN/releases/download/4.6/v2rayN-Core.zip) |  
 | [ss](#v2ray)  | [ss](https://github.com/shadowsocks/shadowsocks-android/releases/download/v5.1.4/shadowsocks--universal-5.1.4.apk)|  
 
 ### 其他
