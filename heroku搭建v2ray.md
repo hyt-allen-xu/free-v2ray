@@ -44,14 +44,14 @@ github项目地址：[点击进入](https://github.com/xueliqq/v2ray-heroku/blob
 2.将原有的示例代码全部删除，复制如下代码，并将第四行的汉字替换为你的V2Ray的地址
 
 ```addEventListener(
-  "fetch",event => &#123;
+  "fetch",event => {
      let url=new URL(event.request.url);
-     url.hostname="需要反代的 V2Ray 服务器地址";
+     url.hostname="应用名称.herokuapp.com";
      let request=new Request(url,event.request);
      event. respondWith(
        fetch(request)
      )
-  &#125;
+  }
 )
 ```
 
