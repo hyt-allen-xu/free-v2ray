@@ -1,3 +1,11 @@
+# heroku搭建v2ray教程
+所需账号:
+1.一个heroku的账号
+2.一个cloudflare的账号（非必须）
+## 教程开始
+介绍：
+注册heroku账号：[点击进入](https://signup.heroku.com/)
+
 申请vps地址：[点击进入](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbclswl0827%2Fv2ray-heroku)
 
 github项目地址：[点击进入](https://github.com/xueliqq/v2ray-heroku/blob/master/README.md)
@@ -25,3 +33,26 @@ github项目地址：[点击进入](https://github.com/xueliqq/v2ray-heroku/blob
 ![avatar](https://wxf2088.xyz/wp-content/uploads/2020/09/QQ%E6%88%AA%E5%9B%BE20200909181440.png)
 
 按照以上格式填写就可以正常使用！
+
+## cloudflare加速（需cloudflare账号）
+对速度有要求的人群可以看一下；主要是使用Cloudflare Workers加速，免费套餐有调用限制，大家悠着点用就行了
+
+1.在Cloudflare Workers中创建一个Workers
+![avatar](https://i.loli.net/2020/07/26/a3hNf65UD2rsGYT.png)
+![avatar](https://i.loli.net/2020/07/26/ZsGLCQNhjYlzgap.png)
+
+2.将原有的示例代码全部删除，复制如下代码，并将第四行的汉字替换为你的V2Ray的地址
+
+```addEventListener(
+  "fetch",event => &#123;
+     let url=new URL(event.request.url);
+     url.hostname="需要反代的 V2Ray 服务器地址";
+     let request=new Request(url,event.request);
+     event. respondWith(
+       fetch(request)
+     )
+  &#125;
+)
+```
+
+点击右侧的发送按钮，看最后一行是否出现了Bad Request，出现则代表成功
