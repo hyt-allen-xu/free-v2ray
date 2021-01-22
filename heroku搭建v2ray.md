@@ -56,3 +56,22 @@ github项目地址：[点击进入](https://github.com/xueliqq/v2ray-heroku/blob
 ```
 
 点击右侧的发送按钮，看最后一行是否出现了Bad Request，出现则代表成功
+
+![avatar](https://i.loli.net/2020/07/26/Qsd43hIbvXUFYLi.png)
+
+
+成功后，点击保存并部署，并记下你的Workers二级域名
+
+其实到第四步已经可以了，把V2Ray中原来的域名改为现在的Workers域名就行了，但是毕竟会有人追求极致完美嘛
+
+对速度有更高追求以及不怕折腾的人可以接着往下看
+### 对Cloudflare节点的筛选
+
+点击下载IP自选程序，解压，在Windows系统下运行
+
+最后，配置V2Ray：
+![avatar](https://i.loli.net/2020/07/26/cbnmyoiXAwDMVrE.png)
+
+
+#### 注意事项
+由于各地的网络情况每天都不同，所以每天（甚至是每半天）的最优节点都不尽相同；但对于一个应急用的已经足够了
