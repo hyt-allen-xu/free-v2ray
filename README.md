@@ -51,6 +51,8 @@ or - `https://suo.yt/lUp4yGo`
 
 订阅中可能有重复的节点，敬请谅解！
 
+### 想查看节点速度？
+想查看节点速度？去[‘速度测试.md‘](https://github.com/hyt-allen-xu/free-v2ray/blob/master/%E9%80%9F%E5%BA%A6%E6%B5%8B%E8%AF%95.md)看一看吧
 ### v2ray
 ```ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDg0LjE3LjM3LjE2MDo0MDA5Mw==#+HK_1472
 
