@@ -1,7 +1,5 @@
 # 关于GFW（中国防火墙）加强
-GFW加强导致vmess部分节点无法使用，现存vmess节点仅剩寥寥无几，请大家珍惜使用
-
-推荐大家使用ss节点或使用安卓vpn，我已发布到我的项目里，[传送门](https://github.com/hyt-allen-xu/Android-vpn)
+GFW加强导致vmess部分节点无法使用
 
 在线临时代理1：https://google.hyt-allenxu.workers.dev/
 
@@ -22,8 +20,9 @@ V2Ray账号，更新时间：2021年1月6日 星期三 14:57:32
 ### 其他
 1.已经开通网站，[点击进入](https://hyt-allen-xu.github.io/free-v2ray/)
 
-2.已经开通订阅转换,[点击进入](https://aclssr.netlify.app/)
+2.已经开通订阅转换，[点击进入](https://aclssr.netlify.app/)
 
+3.联系我(Telegram):[点击这里联系我](https://t.me/hytallenxu)
 
 ### （推荐）节点导入方法  
 CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标，左键点击从剪贴板批量导入URL，即可一键导入所有v2ray节点  
