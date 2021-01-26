@@ -24,7 +24,7 @@ V2Ray账号，更新时间：2021年1月6日 星期三 14:57:32
 
 3.联系我(Telegram):[点击这里联系我](https://t.me/hytallenxu)
 
-4.想和站主商务合作或提供节点？点击上方的链接联系我:[商务合作/提供节点](https://t.me/hytallenxu)
+4.TG分享免费节点频道:[点击进入](https://t.me/baipiaov2)
 
 5.想提供意见反馈？在Issues专栏告诉站主吧
 
