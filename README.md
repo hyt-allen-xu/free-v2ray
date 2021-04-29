@@ -1,6 +1,9 @@
+## 我的官方TG分享免费节点频道:[点击进入](https://t.me/baipiao_v2)
+
+该项目暂时停止更新,如需节点请进入以上TG频道
 # 使用前必看
 
-我的官方TG分享免费节点频道:[点击进入](https://t.me/baipiaov2)
+我的官方TG分享免费节点频道:[点击进入](https://t.me/baipiao_v2)
 
 GFW加强导致vmess部分节点无法使用，可以使用临时代理：
 
@@ -23,11 +26,11 @@ V2Ray账号，更新时间：2021年1月6日 星期三 14:57:32
 ### 其他
 1.已经开通网站，[点击进入](https://hyt-allen-xu.github.io/free-v2ray/)
 
-2.已经开通订阅转换，[点击进入](https://aclssr.netlify.app/)
+2.已经开通订阅转换，[点击进入](https://sub.proxypoolv2.tk/)
 
 3.联系我(Telegram):[点击这里联系我](https://t.me/hytallenxu)
 
-4.TG分享免费节点频道:[点击进入](https://t.me/baipiaov2)
+4.TG分享免费节点频道:[点击进入](https://t.me/baipiao_v2)
 
 5.想提供意见反馈？在[Issues](https://github.com/hyt-allen-xu/free-v2ray/issues/1)专栏告诉站主吧
 
